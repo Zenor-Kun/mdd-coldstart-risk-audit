@@ -8,11 +8,11 @@ This project accompanies our manuscript prepared for submission to ISBI 2027.
 
 ## Release Schedule
 
-- [ ] **2026.11.15 — Release Core Evaluation Pipeline and Model Definitions.**
-- [ ] **2026.12.30 — Release S0/S1 Confidence Scoring and Transfer Evaluation Code.**
-- [ ] **2027.1.15 — Release S2 Risk Certification and Feasibility Analysis Code.**
-- [ ] **2027.1.30 — Release Statistical Analysis and Visualization Scripts.**
-- [ ] **2027.2.15 — Release Full Reproduction Package and Documentation.**
+- [x] **2026.10.26 — Release Core Evaluation Pipeline and Model Definitions.**
+- [x] **2026.10.26 — Release S0/S1 Confidence Scoring and Transfer Evaluation Code.**
+- [x] **2026.10.26 — Release S2 Risk Certification and Feasibility Analysis Code.**
+- [ ] **2026.10.26 — Release Statistical Analysis and Visualization Scripts.**
+- [ ] **2027.1.1 — Release Full Reproduction Package and Documentation.**
 
 ## Data Availability
 
